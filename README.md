@@ -26,6 +26,3 @@ Rather than overengineering, I prefer simple and maintainable approaches that de
 ### 📫 Contact
 - Email: **bayraktolga28@gmail.com**
 
----
-
-Thanks for stopping by and checking out my work.
