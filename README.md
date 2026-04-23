@@ -12,10 +12,11 @@
 ```
 
 ```
-■ scalable_backend     // distributed systems, microservices
-■ clean_frontend       // maintainable, component-driven UI
-■ biz_to_tech          // turning requirements into real solutions
-■ saas_products        // stability, performance, longevity
+■ fullstack_dev        // end-to-end ownership, from db schema to ui interaction
+■ api_design           // contracts first, versioned, predictable, self-documenting
+■ frontend_craft       // state management, performance, accessibility — not just markup
+■ backend_architecture // layered, stateless where possible, easy to reason about
+■ saas_mindset         // build for scale, design for change, ship for humans
 ```
 
 ---
@@ -26,14 +27,14 @@
 ```
 
 ```
-[✔] clean_code           // readable > clever, always
-[✔] solid_principles     // single responsibility, open/closed, dependency inversion
-[✔] dry                  // don't repeat yourself, abstract ruthlessly
-[✔] kiss                 // keep it simple — complexity is a liability
-[✔] fail_fast            // surface errors early, handle them explicitly
-[✔] separation_of_concerns  // each layer does one thing, does it well
-[✔] performance_first    // measure before optimizing, but always optimize
-[✔] long_term_thinking   // write code for the next engineer, not just yourself
+[✔] readable_over_clever    // code is read 10x more than written — optimize for that
+[✔] boundaries_matter       // clear interfaces beat tight coupling every time
+[✔] dry_but_not_obsessed    // abstract when it's real duplication, not coincidence
+[✔] delete_code             // the best code is no code; less to maintain, less to break
+[✔] fail_loudly             // silent failures are the hardest bugs to find
+[✔] names_are_design        // a good name makes a comment unnecessary
+[✔] own_the_full_stack      // understand what happens on both ends of the wire
+[✔] systems_over_heroics    // sustainable pace, consistent quality, no cowboy deploys
 ```
 
 ---
