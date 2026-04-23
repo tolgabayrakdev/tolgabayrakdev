@@ -1,17 +1,65 @@
-```bash
-> whoami
-Tolga Bayrak
+<div align="center">
+
+```
+░▀█▀░█▀█░█░░░█▀▀░█▀█░░░█▀▄░█▀█░█░█░█▀▄░█▀█░█░█
+░░█░░█░█░█░░░█░█░█▀█░░░█▀▄░█▀█░░█░░█▀▄░█▀█░█▀▄
+░░▀░░▀▀▀░▀▀▀░▀▀▀░▀░▀░░░▀▀░░▀░▀░░▀░░▀░▀░▀░▀░▀░▀
 ```
 
-Software developer focused on building practical, scalable, and well-engineered products.
+```
+┌──(tolga㉿dev)-[~]
+└─$ whoami
+> Software Developer
+```
 
-I aim to create clear, efficient solutions that solve real problems, combining solid backend architecture with thoughtful frontend development. I focus on stability, performance, and long-term sustainability.
+</div>
 
-### 🚀 Focus
-- Scalable backend systems & architecture  
-- Clean and maintainable frontend development  
-- Turning business needs into clear technical solutions  
-- Building sustainable SaaS products  
+---
 
-### 📫 Contact
-- Email: **bayraktolga28@gmail.com**
+```bash
+┌──(tolga㉿dev)-[~]
+└─$ cat focus.txt
+```
+
+```
+■ scalable_backend     // distributed systems, microservices
+■ clean_frontend       // maintainable, component-driven UI
+■ biz_to_tech          // turning requirements into real solutions
+■ saas_products        // stability, performance, longevity
+```
+
+---
+
+```bash
+┌──(tolga㉿dev)-[~]
+└─$ ./skill_report --verbose
+```
+
+```
+backend_arch   ████████████████████░░░░
+system_design  ██████████████████░░░░░░
+saas_product   █████████████████░░░░░░░
+frontend_dev   ████████████████░░░░░░░░
+devops_infra   ██████████████░░░░░░░░░░
+```
+
+---
+
+```bash
+┌──(tolga㉿dev)-[~]
+└─$ cat contact.sh
+```
+
+```bash
+#!/bin/bash
+EMAIL="bayraktolga28@gmail.com"
+GITHUB="github.com/tolgabayrak"
+echo "Open to: remote · freelance · collaboration"
+```
+
+---
+
+```bash
+┌──(tolga㉿dev)-[~]
+└─$ █
+```
