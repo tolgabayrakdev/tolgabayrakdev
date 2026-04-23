@@ -1,3 +1,3 @@
-# Tolga Bayrak
+# Tolga BAYRAK
 
 ![](terminal.svg)
