@@ -1,4 +1,7 @@
-## Hi 👋 I'm Tolga Bayrak
+```bash
+> whoami
+Tolga Bayrak
+```
 
 Software developer focused on building practical, scalable, and well-engineered products.
 
