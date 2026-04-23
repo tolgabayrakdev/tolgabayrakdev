@@ -1,16 +1,6 @@
 <div align="center">
 
-```
-░▀█▀░█▀█░█░░░█▀▀░█▀█░░░█▀▄░█▀█░█░█░█▀▄░█▀█░█░█
-░░█░░█░█░█░░░█░█░█▀█░░░█▀▄░█▀█░░█░░█▀▄░█▀█░█▀▄
-░░▀░░▀▀▀░▀▀▀░▀▀▀░▀░▀░░░▀▀░░▀░▀░░▀░░▀░▀░▀░▀░▀░▀
-```
-
-```
-┌──(tolga㉿dev)-[~]
-└─$ whoami
-> Software Developer
-```
+![](header.svg)
 
 </div>
 
@@ -32,15 +22,18 @@
 
 ```bash
 ┌──(tolga㉿dev)-[~]
-└─$ ./skill_report --verbose
+└─$ ./principles --list
 ```
 
 ```
-backend_arch   ████████████████████░░░░
-system_design  ██████████████████░░░░░░
-saas_product   █████████████████░░░░░░░
-frontend_dev   ████████████████░░░░░░░░
-devops_infra   ██████████████░░░░░░░░░░
+[✔] clean_code           // readable > clever, always
+[✔] solid_principles     // single responsibility, open/closed, dependency inversion
+[✔] dry                  // don't repeat yourself, abstract ruthlessly
+[✔] kiss                 // keep it simple — complexity is a liability
+[✔] fail_fast            // surface errors early, handle them explicitly
+[✔] separation_of_concerns  // each layer does one thing, does it well
+[✔] performance_first    // measure before optimizing, but always optimize
+[✔] long_term_thinking   // write code for the next engineer, not just yourself
 ```
 
 ---
